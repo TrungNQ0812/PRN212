@@ -8,12 +8,8 @@ namespace EX1_OOP
 {
     public interface IEmployee
     {
-        public int calculateSalary()
-        {
-        }
+        public int calculateSalary();
 
-        public string getName()
-        {
-        }
+        public string getName();
     }
 }

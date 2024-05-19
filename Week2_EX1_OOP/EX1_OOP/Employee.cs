@@ -6,9 +6,47 @@ using System.Threading.Tasks;
 
 namespace EX1_OOP
 {
-    internal class Employee
+    public abstract class Employee : IEmployee
     {
-        string name;
-        int paymentPerHour;
+        private string name;
+        private int paymentPerHour;
+
+
+        public Employee()
+        {
+        }
+
+        public Employee(String name, int paymentPerHour)
+        {
+            this.name = name;
+            this.paymentPerHour = paymentPerHour;
+        }
+
+        public void setName(string name)
+        {
+            this.name = name;
+        }
+
+        public string getName()
+        {
+            return name;
+        }
+
+        public void setPaymentPerHours(int paymentPerHours)
+        {
+            this.paymentPerHour = paymentPerHours;
+        }
+
+        public int getPaymentPerHours()
+        {
+            return paymentPerHour;
+        }
+
+        public abstract int calculateSalary();
+
+        public override string ToString()
+        {
+            return $"Name: {name}, Payment per hour: {paymentPerHour}";
+        }
     }
 }
