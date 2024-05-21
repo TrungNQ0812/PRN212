@@ -10,6 +10,7 @@ namespace EX1_OOP
         {
             while (true)
             {
+                // Display menu options to the user
                 Console.WriteLine("===========Employee Management===========");
                 Console.WriteLine("1, Add employee.");
                 Console.WriteLine("2, Delete employee.");
@@ -17,7 +18,11 @@ namespace EX1_OOP
                 Console.WriteLine("4, Find employee have highest salary in part-time and full-time.");
                 Console.WriteLine("5, Find employee by name.");
                 Console.WriteLine("6, Exit.");
+
+                // Get user choice with validation
                 int choice = checkInteger(1, 6, "Please enter your choice: ");
+
+                // Execute appropriate method based on user choice
                 switch (choice)
                 {
                     case 1:
@@ -42,12 +47,15 @@ namespace EX1_OOP
             }
         }
 
+        // Add new employee
         public static void addEmployee()
         {
             try
             {
                 string name = checkInputString("Input name of the employee: ");
                 int paymentPerHour = checkInteger(15000, 55000, "Input payment this employee will have: ");
+
+                // Ensure the employee doesn't already exist in the list
                 foreach (Employee emp in empList)
                 {
                     if (name.Equals(emp.getName()) && paymentPerHour.Equals(emp.getPaymentPerHours()))
@@ -57,7 +65,8 @@ namespace EX1_OOP
                         paymentPerHour = checkInteger(15000, 55000, "Input payment this employee will have: ");
                     }
                 }
-                
+
+                // Determine type of employee and add to list
                 int employeeType = checkInteger(1, 2, "What type of employee: ");
 
                 if (employeeType == 1)
@@ -81,6 +90,7 @@ namespace EX1_OOP
             }
         }
 
+        // Method to delete an existing employee
         public static void deleteEmployee()
         {
             try
@@ -103,12 +113,13 @@ namespace EX1_OOP
             }
         }
 
-         public static void editEmployee()
+        // Method to edit an existing employee's details
+        public static void editEmployee()
         {
             try
             {
                 string name = checkInputString("Enter the name of the employee to edit: ");
-                bool found = false; // Cờ để theo dõi xem có tìm thấy nhân viên hay không
+                bool found = false; // Flag to check if employee is found
 
                 foreach (Employee finder in empList)
                 {
@@ -116,9 +127,9 @@ namespace EX1_OOP
                     {
                         finder.setName(checkInputString("Enter new name: "));
                         finder.setPaymentPerHours(checkInteger(15000, 55000, "Enter new payment per hour: "));
-                        found = true; // Đặt cờ thành true nếu tìm thấy nhân viên
+                        found = true; // Set flag to true if employee is found
                         Console.WriteLine("Employee information updated successfully.");
-                        break; // Thoát vòng lặp vì đã tìm thấy và cập nhật thông tin nhân viên
+                        break; // Exit loop after updating employee info
                     }
                 }
 
@@ -134,11 +145,13 @@ namespace EX1_OOP
             }
         }
 
+        // Method to find the employees with the highest salaries for full-time and part-time
         public static void findTheHighestSalary() 
         {
             Employee highestFullTime = null;
             Employee highestPartTime = null;
 
+            // Iterate through the employee list to find the highest salary employees
             foreach (var employee in empList)
             {
                 if (employee is FullTimeEmployee)
@@ -157,6 +170,7 @@ namespace EX1_OOP
                 }
             }
 
+            // Display the results
             if (highestFullTime != null)
             {
                 Console.WriteLine($"The highest salary full-time employee is: {highestFullTime.getName()} with a salary of {highestFullTime.calculateSalary()}");
@@ -176,12 +190,14 @@ namespace EX1_OOP
             }
         }
 
+        // Method to search for employees by name
         public static List<Employee> searchByName(string msg)
         {
             Console.WriteLine(msg);
             string searchName = Console.ReadLine();
             List<Employee> result = new List<Employee>();
 
+            // Iterate through the employee list to find matches by name
             foreach (Employee finder in empList)
             {
                 if (finder.getName().Contains(searchName, StringComparison.OrdinalIgnoreCase))
@@ -190,6 +206,7 @@ namespace EX1_OOP
                 }
             }
 
+            // Display the results
             if (result.Count == 0)
             {
                 Console.WriteLine("No employees found with that name.");
@@ -206,6 +223,8 @@ namespace EX1_OOP
             return result;
 
         }
+
+        // Method to check and get a valid string input
         public static string checkInputString(string msg)
         {
             string input;
@@ -227,6 +246,7 @@ namespace EX1_OOP
             }
         }
 
+        // Method to check and get a valid integer input within a specified range
         public static int checkInteger(int min, int max, string msg)
         {
             int input;
