@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\week2_ex2_oop\\week2_ex2_oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|solutionrelative:week2_ex2_oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\week2_ex2_oop\\week2_ex2_oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|solutionrelative:week2_ex2_oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\week2_ex2_oop\\week2_ex2_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|solutionrelative:week2_ex2_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\week2_ex2_oop\\week2_ex2_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0419DF7C-A1CA-42D3-B509-92BD4975E8E8}|Week2_EX2_OOP\\Week2_EX2_OOP.csproj|solutionrelative:week2_ex2_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Person.cs",
+              "RelativeDocumentMoniker": "Week2_EX2_OOP\\Person.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Person.cs",
+              "RelativeToolTip": "Week2_EX2_OOP\\Person.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:29:59.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Employee.cs",
+              "RelativeDocumentMoniker": "Week2_EX2_OOP\\Employee.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Employee.cs",
+              "RelativeToolTip": "Week2_EX2_OOP\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:29:58.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Customer.cs",
+              "RelativeDocumentMoniker": "Week2_EX2_OOP\\Customer.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Customer.cs",
+              "RelativeToolTip": "Week2_EX2_OOP\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:29:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Program.cs",
               "RelativeDocumentMoniker": "Week2_EX2_OOP\\Program.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX2_OOP\\Week2_EX2_OOP\\Program.cs",
               "RelativeToolTip": "Week2_EX2_OOP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAcwHgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T07:27:08.319Z",
               "EditorCaption": ""

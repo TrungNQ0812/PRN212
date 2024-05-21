@@ -17,6 +17,12 @@ namespace Week2_EX2_OOP
             this.balance = balance;
         }
 
+        public int getBalance() { return balance; }
+        public void setBalance(int balance)
+        {
+            this.balance=balance;
+        }
+
         public override void display()
         {
             Console.WriteLine($"Customer: {getName()}, Address: {getAddress()}, Balance: {balance}");

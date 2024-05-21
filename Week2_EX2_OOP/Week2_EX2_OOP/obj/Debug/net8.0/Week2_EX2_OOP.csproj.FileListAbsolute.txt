@@ -1,0 +1,15 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.AssemblyInfoInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.AssemblyInfo.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.csproj.CoreCompileInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.sourcelink.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\bin\Debug\net8.0\Week2_EX2_OOP.exe
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\bin\Debug\net8.0\Week2_EX2_OOP.deps.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\bin\Debug\net8.0\Week2_EX2_OOP.runtimeconfig.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\bin\Debug\net8.0\Week2_EX2_OOP.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\bin\Debug\net8.0\Week2_EX2_OOP.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\refint\Week2_EX2_OOP.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\Week2_EX2_OOP.genruntimeconfig.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Week2_EX2_OOP\Week2_EX2_OOP\obj\Debug\net8.0\ref\Week2_EX2_OOP.dll
