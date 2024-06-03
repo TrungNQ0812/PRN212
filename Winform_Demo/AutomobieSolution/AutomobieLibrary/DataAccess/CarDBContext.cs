@@ -18,37 +18,66 @@ namespace AutomobieLibrary.DataAccess
                 CarID = 2, CarName = "Ford Focus", Manufacturer = "Ford",
                 Price = 15000, ReleaseYear = 2020}
         };
-    }
-    //Using Singleton Pattern
-    private static CarDBContext instance = null;
-    private static readonly object instanceLock = new object();
-    private CarDBContext() { }
-    public static CarDBContext Instance
-    {
-        get
+
+        //Using Singleton Pattern
+        private static CarDBContext instance = null;
+        private static readonly object instanceLock = new object();
+        private CarDBContext() { }
+        public static CarDBContext Instance
         {
-            lock(instanceLock){
-                if (instance == null)
-                {
-                    instance = new CarDBContext();
+            get
+            {
+                lock (instanceLock) {
+                    if (instance == null)
+                    {
+                        instance = new CarDBContext();
+                    }
+                    return instance;
                 }
-                return instance;
             }
         }
-    }
-    //--------------------------
-    public List<Car> GetCarList => CarList;
-    //--------------------------
-    public Car GetCarByID(Car car)
-    {
-        //Using LINQ to Object
-        Car car = CarList.SingleOrDefault(pro => pro, CarID);
-    }
+        //--------------------------
+        public List<Car> GetCarList => CarList;
+        //--------------------------
+        public Car GetCarByID(int carID)
+        {
+            //Using LINQ to Object
+            Car car = CarList.SingleOrDefault(pro => pro.CarID == carID);
+            return car;
+        }
 
-    //----------------------------------------
-    //add new a car
-    public void addNew(Car car)
-    {
-        Car pro = getCar
+        //----------------------------------------
+        //add new a car
+        public void addNew(Car car)
+        {
+            Car pro = GetCarByID(car.CarID);
+            if (pro == null)
+            {
+                CarList.Add(car);
+            }
+            else
+            {
+                throw new Exception("Car is already exists.");
+            }
+        }
+
+        public void Update(Car car)
+        {
+            Car c = GetCarByID(car.CarID);
+            if (c!=null)
+            {
+               var index = CarList.IndexOf(c);
+                CarList[index] = car;
+            }
+            else
+            {
+                throw new Exception("Car does not already exists.");
+            }
+        }
+
+        public void Remove(int carID)
+        {
+            Car p = GetCarByID(carID);
+        }
     }
 }   
