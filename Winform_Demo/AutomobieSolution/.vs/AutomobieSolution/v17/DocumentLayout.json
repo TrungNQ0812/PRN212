@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\bussinessobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\bussinessobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\dataaccess\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\dataaccess\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\Repository\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobieLibrary\\Repository\\ICarRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\Repository\\ICarRepository.cs",
+              "RelativeToolTip": "AutomobieLibrary\\Repository\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:57:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobieLibrary\\Repository\\CarRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "AutomobieLibrary\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:56:45.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDBContext.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\DataAccess\\CarDBContext.cs",
+              "RelativeDocumentMoniker": "AutomobieLibrary\\DataAccess\\CarDBContext.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\DataAccess\\CarDBContext.cs",
+              "RelativeToolTip": "AutomobieLibrary\\DataAccess\\CarDBContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:56:25.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\BussinessObject\\Car.cs",
+              "RelativeDocumentMoniker": "AutomobieLibrary\\BussinessObject\\Car.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\BussinessObject\\Car.cs",
+              "RelativeToolTip": "AutomobieLibrary\\BussinessObject\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:56:07.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
