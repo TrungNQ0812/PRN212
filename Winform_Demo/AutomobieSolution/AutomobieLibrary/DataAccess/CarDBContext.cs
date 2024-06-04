@@ -78,6 +78,14 @@ namespace AutomobieLibrary.DataAccess
         public void Remove(int carID)
         {
             Car p = GetCarByID(carID);
-        }
-    }
+            if (p!=null)
+            {
+                CarList.Remove(p);
+            }
+            else
+            {
+                throw new Exception("Car does not already exists.");
+            }
+        } // end remove
+    }//end class
 }   
