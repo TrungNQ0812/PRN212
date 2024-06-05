@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\CarShop.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\CarShop.csproj|solutionrelative:carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|solutionrelative:carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|solutionrelative:carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -71,8 +71,7 @@
               "RelativeToolTip": "AutomobieLibrary\\Repository\\ICarRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:57:00.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:57:00.166Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "AutomobieLibrary\\Repository\\CarRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:56:45.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:56:45.149Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "AutomobieLibrary\\DataAccess\\CarDBContext.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAiwFcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:56:25.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:56:25.78Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "AutomobieLibrary\\BussinessObject\\Car.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:56:07.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:56:07.579Z"
             }
           ]
         }
