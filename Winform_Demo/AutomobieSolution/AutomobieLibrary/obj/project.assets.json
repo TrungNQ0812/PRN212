@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\AutomobieLibrary.csproj",
-      "projectName": "AutomobieLibrary",
-      "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\AutomobieLibrary.csproj",
+      "projectUniqueName": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\AutomobileLibrary.csproj",
+      "projectName": "AutomobileLibrary",
+      "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\AutomobileLibrary.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
       "outputPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\obj\\",
       "projectStyle": "PackageReference",

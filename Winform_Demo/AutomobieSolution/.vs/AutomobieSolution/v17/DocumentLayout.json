@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|solutionrelative:carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26E4C91-E841-429D-9798-4E1EE665EFB7}|CarShop\\frmCarDetails.csproj|solutionrelative:carshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55213811-C5A0-4C63-B06F-D8A22C53ADA0}|AutomobileWinApp\\AutomobileWinApp.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55213811-C5A0-4C63-B06F-D8A22C53ADA0}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{55213811-C5A0-4C63-B06F-D8A22C53ADA0}|AutomobileWinApp\\AutomobileWinApp.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55213811-C5A0-4C63-B06F-D8A22C53ADA0}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\dataaccess\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\dataaccess\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\winform_demo\\automobiesolution\\automobielibrary\\bussinessobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA5B18FB-84A2-4962-87DC-07A2CD9B6633}|AutomobieLibrary\\AutomobieLibrary.csproj|solutionrelative:automobielibrary\\bussinessobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,33 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\CarShop\\Form1.cs",
-              "RelativeDocumentMoniker": "CarShop\\Form1.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\CarShop\\Form1.cs",
-              "RelativeToolTip": "CarShop\\Form1.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAMwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:35:21.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\CarShop\\Form1.cs",
-              "RelativeDocumentMoniker": "CarShop\\Form1.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\CarShop\\Form1.cs [Design]",
-              "RelativeToolTip": "CarShop\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:28:28.648Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -69,45 +36,48 @@
               "RelativeDocumentMoniker": "AutomobieLibrary\\Repository\\ICarRepository.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\Repository\\ICarRepository.cs",
               "RelativeToolTip": "AutomobieLibrary\\Repository\\ICarRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:57:00.166Z"
+              "WhenOpened": "2024-06-05T18:27:25.72Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "frmCarDetails.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobileWinApp\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\frmCarDetails.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobileWinApp\\frmCarDetails.cs",
+              "RelativeToolTip": "AutomobileWinApp\\frmCarDetails.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:16:34.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CarRepository.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\Repository\\CarRepository.cs",
               "RelativeDocumentMoniker": "AutomobieLibrary\\Repository\\CarRepository.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\Repository\\CarRepository.cs",
               "RelativeToolTip": "AutomobieLibrary\\Repository\\CarRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:56:45.149Z"
+              "WhenOpened": "2024-06-03T08:56:45.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarDBContext.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\DataAccess\\CarDBContext.cs",
-              "RelativeDocumentMoniker": "AutomobieLibrary\\DataAccess\\CarDBContext.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\DataAccess\\CarDBContext.cs",
-              "RelativeToolTip": "AutomobieLibrary\\DataAccess\\CarDBContext.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAiwFcAAAALAAAA",
+              "DocumentIndex": 0,
+              "Title": "frmCarDetails.cs [Design]",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobileWinApp\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\frmCarDetails.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobileWinApp\\frmCarDetails.cs [Design]",
+              "RelativeToolTip": "AutomobileWinApp\\frmCarDetails.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:56:25.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\BussinessObject\\Car.cs",
-              "RelativeDocumentMoniker": "AutomobieLibrary\\BussinessObject\\Car.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Winform_Demo\\AutomobieSolution\\AutomobieLibrary\\BussinessObject\\Car.cs",
-              "RelativeToolTip": "AutomobieLibrary\\BussinessObject\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:56:07.579Z"
+              "WhenOpened": "2024-06-05T16:15:45.704Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

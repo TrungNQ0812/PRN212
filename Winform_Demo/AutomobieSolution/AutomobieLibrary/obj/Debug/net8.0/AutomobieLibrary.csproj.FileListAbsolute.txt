@@ -1,0 +1,12 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\AutomobieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\AutomobieLibrary.AssemblyInfoInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\AutomobieLibrary.AssemblyInfo.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\AutomobieLibrary.csproj.CoreCompileInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\AutomobieLibrary.sourcelink.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\bin\Debug\net8.0\AutomobieLibrary.deps.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\bin\Debug\net8.0\AutomobieLibrary.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\bin\Debug\net8.0\AutomobieLibrary.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\AutomobieLibrary.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\refint\AutomobieLibrary.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\AutomobieLibrary.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Winform_Demo\AutomobieSolution\AutomobieLibrary\obj\Debug\net8.0\ref\AutomobieLibrary.dll

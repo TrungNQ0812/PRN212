@@ -7,11 +7,11 @@ using AutomobieLibrary.BussinessObject;
 
 namespace AutomobieLibrary.Repository
 {
-    public class ICarRepository
+    public interface ICarRepository
     {
         IEnumerable<Car> GetCars();
-        Car GetCarByID(int ID);
-        void InsertCar(int carID);
+        Car GetCarByID(int carID);
+        void InsertCar(Car car);
         void DeleteCar(int carID);
         void UpdateCar(Car car);
     }

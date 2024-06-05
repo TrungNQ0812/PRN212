@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AutomobieLibrary/1.0.0": {
+        "runtime": {
+          "AutomobieLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutomobieLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
