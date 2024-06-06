@@ -28,168 +28,172 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            button2 = new Button();
-            label1 = new Label();
-            label2 = new Label();
-            label3 = new Label();
-            label4 = new Label();
-            label5 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            textBox5 = new TextBox();
+            lbCarID = new Label();
+            lbCarName = new Label();
+            lbManufacterer = new Label();
+            lbPrice = new Label();
+            lbReleaseYear = new Label();
+            txtCarID = new TextBox();
+            txtCarName = new TextBox();
+            btnSave = new Button();
+            btnCancel = new Button();
+            cboManufacturer = new ComboBox();
+            txtPrice = new MaskedTextBox();
+            txtReleaseYear = new MaskedTextBox();
             SuspendLayout();
             // 
-            // button1
+            // lbCarID
             // 
-            button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            button1.Location = new Point(397, 319);
-            button1.Name = "button1";
-            button1.Size = new Size(100, 37);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            lbCarID.AutoSize = true;
+            lbCarID.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            lbCarID.Location = new Point(51, 43);
+            lbCarID.Name = "lbCarID";
+            lbCarID.Size = new Size(64, 25);
+            lbCarID.TabIndex = 2;
+            lbCarID.Text = "Car ID";
             // 
-            // button2
+            // lbCarName
             // 
-            button2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            button2.Location = new Point(258, 319);
-            button2.Name = "button2";
-            button2.Size = new Size(100, 37);
-            button2.TabIndex = 1;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            lbCarName.AutoSize = true;
+            lbCarName.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            lbCarName.Location = new Point(51, 100);
+            lbCarName.Name = "lbCarName";
+            lbCarName.Size = new Size(96, 25);
+            lbCarName.TabIndex = 3;
+            lbCarName.Text = "Car Name";
             // 
-            // label1
+            // lbManufacterer
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            label1.Location = new Point(51, 43);
-            label1.Name = "label1";
-            label1.Size = new Size(63, 25);
-            label1.TabIndex = 2;
-            label1.Text = "label1";
+            lbManufacterer.AutoSize = true;
+            lbManufacterer.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            lbManufacterer.Location = new Point(51, 153);
+            lbManufacterer.Name = "lbManufacterer";
+            lbManufacterer.Size = new Size(127, 25);
+            lbManufacterer.TabIndex = 4;
+            lbManufacterer.Text = "Manufacturer";
             // 
-            // label2
+            // lbPrice
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            label2.Location = new Point(51, 100);
-            label2.Name = "label2";
-            label2.Size = new Size(63, 25);
-            label2.TabIndex = 3;
-            label2.Text = "label2";
+            lbPrice.AutoSize = true;
+            lbPrice.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            lbPrice.Location = new Point(51, 209);
+            lbPrice.Name = "lbPrice";
+            lbPrice.Size = new Size(54, 25);
+            lbPrice.TabIndex = 5;
+            lbPrice.Text = "Price";
             // 
-            // label3
+            // lbReleaseYear
             // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            label3.Location = new Point(51, 153);
-            label3.Name = "label3";
-            label3.Size = new Size(63, 25);
-            label3.TabIndex = 4;
-            label3.Text = "label3";
+            lbReleaseYear.AutoSize = true;
+            lbReleaseYear.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            lbReleaseYear.Location = new Point(51, 264);
+            lbReleaseYear.Name = "lbReleaseYear";
+            lbReleaseYear.Size = new Size(116, 25);
+            lbReleaseYear.TabIndex = 6;
+            lbReleaseYear.Text = "Release Year";
             // 
-            // label4
+            // txtCarID
             // 
-            label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            label4.Location = new Point(51, 209);
-            label4.Name = "label4";
-            label4.Size = new Size(63, 25);
-            label4.TabIndex = 5;
-            label4.Text = "label4";
+            txtCarID.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            txtCarID.Location = new Point(192, 47);
+            txtCarID.Name = "txtCarID";
+            txtCarID.Size = new Size(305, 29);
+            txtCarID.TabIndex = 7;
             // 
-            // label5
+            // txtCarName
             // 
-            label5.AutoSize = true;
-            label5.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            label5.Location = new Point(51, 264);
-            label5.Name = "label5";
-            label5.Size = new Size(63, 25);
-            label5.TabIndex = 6;
-            label5.Text = "label5";
+            txtCarName.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            txtCarName.Location = new Point(192, 100);
+            txtCarName.Name = "txtCarName";
+            txtCarName.Size = new Size(305, 29);
+            txtCarName.TabIndex = 8;
             // 
-            // textBox1
+            // btnSave
             // 
-            textBox1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            textBox1.Location = new Point(192, 47);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(305, 29);
-            textBox1.TabIndex = 7;
+            btnSave.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            btnSave.Location = new Point(300, 333);
+            btnSave.Name = "btnSave";
+            btnSave.Size = new Size(91, 31);
+            btnSave.TabIndex = 9;
+            btnSave.Text = "Save";
+            btnSave.UseVisualStyleBackColor = true;
             // 
-            // textBox2
+            // btnCancel
             // 
-            textBox2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            textBox2.Location = new Point(192, 100);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(305, 29);
-            textBox2.TabIndex = 8;
+            btnCancel.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            btnCancel.Location = new Point(406, 333);
+            btnCancel.Name = "btnCancel";
+            btnCancel.Size = new Size(91, 31);
+            btnCancel.TabIndex = 10;
+            btnCancel.Text = "Cancel";
+            btnCancel.UseVisualStyleBackColor = true;
             // 
-            // textBox3
+            // cboManufacturer
             // 
-            textBox3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            textBox3.Location = new Point(192, 153);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(305, 29);
-            textBox3.TabIndex = 9;
+            cboManufacturer.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            cboManufacturer.FormattingEnabled = true;
+            cboManufacturer.Items.AddRange(new object[] { "Audi", "BMW", "Ford", "Honda", "Huyndai", "Kia", "Suzuki", "Toyota" });
+            cboManufacturer.Location = new Point(192, 158);
+            cboManufacturer.Name = "cboManufacturer";
+            cboManufacturer.Size = new Size(305, 29);
+            cboManufacturer.TabIndex = 11;
             // 
-            // textBox4
+            // txtPrice
             // 
-            textBox4.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            textBox4.Location = new Point(192, 209);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(305, 29);
-            textBox4.TabIndex = 10;
+            txtPrice.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            txtPrice.Location = new Point(192, 214);
+            txtPrice.Mask = "000000000";
+            txtPrice.Name = "txtPrice";
+            txtPrice.Size = new Size(305, 29);
+            txtPrice.TabIndex = 12;
+            txtPrice.Text = "0";
             // 
-            // textBox5
+            // txtReleaseYear
             // 
-            textBox5.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            textBox5.Location = new Point(192, 264);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(305, 29);
-            textBox5.TabIndex = 11;
+            txtReleaseYear.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            txtReleaseYear.Location = new Point(192, 269);
+            txtReleaseYear.Mask = "0000";
+            txtReleaseYear.Name = "txtReleaseYear";
+            txtReleaseYear.Size = new Size(305, 29);
+            txtReleaseYear.TabIndex = 13;
+            txtReleaseYear.Text = "0";
             // 
             // frmCarDetails
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(559, 393);
-            Controls.Add(textBox5);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
-            Controls.Add(label5);
-            Controls.Add(label4);
-            Controls.Add(label3);
-            Controls.Add(label2);
-            Controls.Add(label1);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(txtReleaseYear);
+            Controls.Add(txtPrice);
+            Controls.Add(cboManufacturer);
+            Controls.Add(btnCancel);
+            Controls.Add(btnSave);
+            Controls.Add(txtCarName);
+            Controls.Add(txtCarID);
+            Controls.Add(lbReleaseYear);
+            Controls.Add(lbPrice);
+            Controls.Add(lbManufacterer);
+            Controls.Add(lbCarName);
+            Controls.Add(lbCarID);
             Name = "frmCarDetails";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "frmCarDetails";
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Button button1;
-        private Button button2;
-        private Label label1;
-        private Label label2;
-        private Label label3;
-        private Label label4;
-        private Label label5;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
-        private TextBox textBox5;
+        private Label lbCarID;
+        private Label lbCarName;
+        private Label lbManufacterer;
+        private Label lbPrice;
+        private Label lbReleaseYear;
+        private TextBox txtCarID;
+        private TextBox txtCarName;
+        private Button btnSave;
+        private Button btnCancel;
+        private ComboBox cboManufacturer;
+        private MaskedTextBox txtPrice;
+        private MaskedTextBox txtReleaseYear;
     }
 }
