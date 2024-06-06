@@ -117,6 +117,7 @@
             btnSave.TabIndex = 9;
             btnSave.Text = "Save";
             btnSave.UseVisualStyleBackColor = true;
+            btnSave.Click += btnSave_Click;
             // 
             // btnCancel
             // 
@@ -127,6 +128,7 @@
             btnCancel.TabIndex = 10;
             btnCancel.Text = "Cancel";
             btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.Click += btnCancel_Click;
             // 
             // cboManufacturer
             // 
@@ -178,6 +180,7 @@
             Name = "frmCarDetails";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "frmCarDetails";
+            Load += frmCarDetails_Load;
             ResumeLayout(false);
             PerformLayout();
         }
