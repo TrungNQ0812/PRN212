@@ -52,6 +52,7 @@ namespace AutomobileWinApps
                 if (InsertOrUpdate == false)
                 {
                     CarRepository.InsertCar(car);
+                    
                 }
                 else
                 {
