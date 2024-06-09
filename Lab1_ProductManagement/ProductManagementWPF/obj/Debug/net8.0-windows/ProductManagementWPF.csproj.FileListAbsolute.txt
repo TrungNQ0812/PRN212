@@ -1,0 +1,6 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\ProductManagementWPF\obj\Debug\net8.0-windows\ProductManagementWPF.csproj.AssemblyReference.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\ProductManagementWPF\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\ProductManagementWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\ProductManagementWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\ProductManagementWPF\obj\Debug\net8.0-windows\ProductManagementWPF_MarkupCompile.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\ProductManagementWPF\obj\Debug\net8.0-windows\ProductManagementWPF_MarkupCompile.lref

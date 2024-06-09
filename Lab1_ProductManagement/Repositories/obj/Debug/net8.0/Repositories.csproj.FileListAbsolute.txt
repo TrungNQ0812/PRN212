@@ -1,0 +1,6 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json

@@ -1,0 +1,12 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\BusinessObjects.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\BusinessObjects.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\BusinessObject\obj\Debug\net8.0\ref\BusinessObjects.dll
