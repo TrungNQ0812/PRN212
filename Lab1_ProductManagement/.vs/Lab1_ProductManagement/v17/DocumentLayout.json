@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC273EA7-70CD-46DA-BD29-6B7A63D1C3D9}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC273EA7-70CD-46DA-BD29-6B7A63D1C3D9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|solutionrelative:businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|solutionrelative:businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\businessobject\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|solutionrelative:businessobject\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\BusinessObject\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\AccountMember.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\BusinessObject\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObject\\AccountMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:08:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\BusinessObject\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Category.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\BusinessObject\\Category.cs",
+              "RelativeToolTip": "BusinessObject\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:08:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\BusinessObject\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Product.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\BusinessObject\\Product.cs",
+              "RelativeToolTip": "BusinessObject\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:08:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:33:20.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
