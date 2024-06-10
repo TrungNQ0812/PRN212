@@ -10,12 +10,12 @@ namespace Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        ProductDAO productDAO = new ProductDAO();
+        private readonly ProductDAO productDAO = new ProductDAO();
         public void DeleteProduct(Product p) => productDAO.DeleteProduct(p);
 
         public Product GetProductById(int id) => productDAO.GetProductById(id);
 
-        public List<Product> GetProducts() => ProductDAO.GetProducts();
+        public List<Product> GetProducts() => productDAO.GetProducts();
 
         public void SaveProduct(Product p) => productDAO.SaveProduct(p);
 

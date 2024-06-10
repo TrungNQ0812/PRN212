@@ -30,17 +30,36 @@ namespace ProductManagementWPF
 
         private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
-            AccountMember account = iAccountService.GetAccountById(txtUser.Text);
-            if (account != null && account.MemberPassword.Equals(txtPass.Password)
-                && account.MemberRole == 1)
+            try
             {
-                this.Hide();
-                MainWindow mainWindow = new MainWindow();
-                mainWindow.Show();
+                AccountMember account = iAccountService.GetAccountById(txtUser.Text);
+
+                if (account == null)
+                {
+                    MessageBox.Show("Invalid username!");
+                    return;
+                }
+
+                if (account.MemberPassword == null)
+                {
+                    MessageBox.Show("Password is not set for this account!");
+                    return;
+                }
+
+                if (account.MemberPassword.Equals(txtPass.Password) && account.MemberRole == 1)
+                {
+                    this.Hide();
+                    MainWindow mainWindow = new MainWindow();
+                    mainWindow.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Invalid password or you do not have permission!");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                MessageBox.Show("You are not permission!");
+                MessageBox.Show($"An error occurred: {ex.Message}");
             }
         }
 

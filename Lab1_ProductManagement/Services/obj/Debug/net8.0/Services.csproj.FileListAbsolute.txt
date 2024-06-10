@@ -4,3 +4,17 @@ D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0
 D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
 D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
 D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\Services.sourcelink.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\Services.deps.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\Services.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\Services.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\Repositories.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\Repositories.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\Services.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\refint\Services.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\Services.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\Lab1_ProductManagement\Services\obj\Debug\net8.0\ref\Services.dll

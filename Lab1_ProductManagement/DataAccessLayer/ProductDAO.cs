@@ -10,6 +10,7 @@ namespace DataAccessLayer
     public class ProductDAO
     {
         private static List<Product> listProducts;
+        
 
         public ProductDAO()
         {
@@ -22,7 +23,7 @@ namespace DataAccessLayer
 
         public List<Product> GetProducts()
         {
-            return listProducts;
+            return listProducts.ToList();
         }
 
         /* public static List<Product> GetProducts()
