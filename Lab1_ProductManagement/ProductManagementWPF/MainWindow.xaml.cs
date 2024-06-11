@@ -91,7 +91,7 @@ namespace ProductManagementWPF
                     MessageBox.Show("Valid units in stock is required.");
                     return;
                 }
-                if (cboCategory.SelectedValue == null)
+                if (cboCategory.SelectedIndex == null || !(cboCategory.SelectedIndex is int))
                 {
                     MessageBox.Show("Category must be selected.");
                     return;
@@ -103,7 +103,7 @@ namespace ProductManagementWPF
                     ProductName = txtProductName.Text,
                     UnitPrice = price,
                     UnitInStock = unitsInStock,
-                    CategoryID = (int)cboCategory.SelectedValue
+                    CategoryID = (int)cboCategory.SelectedIndex
                 };
 
                 // Lưu sản phẩm mới
@@ -119,6 +119,7 @@ namespace ProductManagementWPF
                 MessageBox.Show($"An error occurred: {ex.Message}");
             }
         }
+
 
         private void dgData_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
@@ -156,6 +157,7 @@ namespace ProductManagementWPF
                     MessageBox.Show("Valid Product ID is required.");
                     return;
                 }
+                // Kiểm tra các giá trị đầu vào
                 if (string.IsNullOrWhiteSpace(txtProductName.Text))
                 {
                     MessageBox.Show("Product name is required.");
@@ -171,7 +173,7 @@ namespace ProductManagementWPF
                     MessageBox.Show("Valid units in stock is required.");
                     return;
                 }
-                if (cboCategory.SelectedValue == null)
+                if (cboCategory.SelectedIndex == null || !(cboCategory.SelectedIndex is int))
                 {
                     MessageBox.Show("Category must be selected.");
                     return;
@@ -184,7 +186,7 @@ namespace ProductManagementWPF
                     ProductName = txtProductName.Text,
                     UnitPrice = price,
                     UnitInStock = unitsInStock,
-                    CategoryID = (int)cboCategory.SelectedValue
+                    CategoryID = (int)cboCategory.SelectedIndex
                 };
 
                 // Cập nhật sản phẩm
