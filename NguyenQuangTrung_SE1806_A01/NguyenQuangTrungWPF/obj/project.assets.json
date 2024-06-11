@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "View/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DataAccessLayer": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/DataAccessLayer.csproj",
+      "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../BusinessObjects/Models.csproj",
+      "msbuildProject": "../BusinessObjects/Models.csproj"
+    },
+    "View/1.0.0": {
+      "type": "project",
+      "path": "../Reposotories/View.csproj",
+      "msbuildProject": "../Reposotories/View.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "DataAccessLayer >= 1.0.0",
+      "Models >= 1.0.0",
+      "View >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\trung\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj",
+      "projectName": "NguyenQuangTrungWPF",
+      "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj",
+      "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\BusinessObjects\\Models.csproj": {
+              "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\BusinessObjects\\Models.csproj"
+            },
+            "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\Reposotories\\View.csproj": {
+              "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\Reposotories\\View.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

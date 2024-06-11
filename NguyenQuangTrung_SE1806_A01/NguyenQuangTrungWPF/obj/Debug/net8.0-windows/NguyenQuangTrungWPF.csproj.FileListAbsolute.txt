@@ -1,0 +1,7 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\obj\Debug\net8.0-windows\NguyenQuangTrungWPF.csproj.AssemblyReference.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\obj\Debug\net8.0-windows\AddRoomWindow.g.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\obj\Debug\net8.0-windows\NguyenQuangTrungWPF_MarkupCompile.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\obj\Debug\net8.0-windows\NguyenQuangTrungWPF_MarkupCompile.lref

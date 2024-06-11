@@ -1,0 +1,21 @@
+﻿<Window x:Class="NguyenQuangTrungWPF.AddRoomWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NguyenQuangTrungWPF"
+        mc:Ignorable="d"
+        Title="AddRoomWindow" Height="450" Width="800">
+    <Grid Background="DarkCyan">
+        <Label Content="Room Number:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" FontSize="16"/>
+        <TextBox x:Name="RoomNumberTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Margin="173,24,0,0" FontSize="16"/>
+        <Label Content="Description:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,60,0,0" FontSize="16"/>
+        <TextBox x:Name="DescriptionTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Margin="173,61,0,0" FontSize="16"/>
+        <Label Content="Capacity:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,100,0,0" FontSize="16"/>
+        <TextBox x:Name="CapacityTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Margin="173,101,0,0" FontSize="16"/>
+        <Label Content="Price:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,140,0,0" FontSize="16"/>
+        <TextBox x:Name="PriceTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Margin="173,141,0,0" FontSize="16"/>
+        <Button Content="Save" HorizontalAlignment="Left" VerticalAlignment="Center" Width="80" Margin="237,0,0,0" Click="SaveButton_Click" FontSize="16"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Center" Width="80" Margin="338,0,0,0" Click="CancelButton_Click" FontSize="16"/>
+    </Grid>
+</Window>
