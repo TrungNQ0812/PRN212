@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\NguyenQuangTrungWPF\App.xaml
-3-370215409
+11-1841907465
 
-6-592140821
-201-389491436
-AddRoomWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+141057295324
+248-1872246507
+LoginWindow.xaml;View\Admin.xaml;View\CustomerWindow.xaml;View\Dialog\AddDialog.xaml;View\Dialog\AddRoom.xaml;View\Dialog\PieChart.xaml;View\Dialog\UpdateDialog.xaml;View\Dialog\UpdateRoom.xaml;View\HistoryWindow.xaml;View\ReportWindow.xaml;View\RoomWindow.xaml;
 
-True
+False
 

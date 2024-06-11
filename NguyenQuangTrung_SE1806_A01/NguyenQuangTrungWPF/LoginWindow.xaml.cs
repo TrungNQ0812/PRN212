@@ -11,6 +11,9 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using NguyenQuangTrungWPF.View;
+using NguyenQuangTrungWPF.View.Dialog;
+
 
 namespace NguyenQuangTrungWPF
 {
@@ -33,14 +36,19 @@ namespace NguyenQuangTrungWPF
             if (email == "admin@FUMiniHotelSystem.com" && password == "@@abc123@@")
             {
                 // Mở cửa sổ chính cho Admin
-                MainWindow mainWindow = new MainWindow();
-                mainWindow.Show();
+                Admin AdminWindow = new Admin();
+                AdminWindow.Show();
                 this.Close();
             }
             else
             {
                 MessageBox.Show("Sai email hoặc mật khẩu", "Lỗi đăng nhập", MessageBoxButton.OK, MessageBoxImage.Error);
             }
+        }
+
+        private void ResetButton_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }

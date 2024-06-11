@@ -1,0 +1,15 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.AssemblyInfoInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.AssemblyInfo.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.csproj.CoreCompileInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.sourcelink.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\bin\Debug\net8.0\FUHotelManageLibrary.deps.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\bin\Debug\net8.0\FUHotelManageLibrary.runtimeconfig.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\bin\Debug\net8.0\FUHotelManageLibrary.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\bin\Debug\net8.0\FUHotelManageLibrary.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.csproj.AssemblyReference.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\refint\FUHotelManageLibrary.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\FUHotelManageLibrary.genruntimeconfig.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_A01\FUHotelManageLibrary\obj\Debug\net8.0\ref\FUHotelManageLibrary.dll

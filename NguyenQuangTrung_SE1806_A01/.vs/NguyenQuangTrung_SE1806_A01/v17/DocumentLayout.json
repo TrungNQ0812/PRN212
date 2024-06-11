@@ -3,60 +3,220 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\nguyenquangtrungwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\ReportWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\ReportWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\HistoryWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\HistoryWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Admin.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Admin.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\nguyenquangtrungwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\nguyenquangtrungwpf\\addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\nguyenquangtrungwpf\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\adddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\adddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\nguyenquangtrungwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\roomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\roomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\nguyenquangtrungwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A127F1-C686-40DC-80D9-C73899CCC94D}|Reposotories\\View.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\reposotories\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A127F1-C686-40DC-80D9-C73899CCC94D}|Reposotories\\View.csproj|solutionrelative:reposotories\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63A127F1-C686-40DC-80D9-C73899CCC94D}|Reposotories\\View.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\reposotories\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63A127F1-C686-40DC-80D9-C73899CCC94D}|Reposotories\\View.csproj|solutionrelative:reposotories\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\updateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\updateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\dataaccesslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\dataaccesslayer\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\piechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\piechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C611B4-6BA9-4A78-926F-9B689647D706}|BusinessObjects\\BusinessObjects.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\businessobjects\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68C611B4-6BA9-4A78-926F-9B689647D706}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\piechart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\piechart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C611B4-6BA9-4A78-926F-9B689647D706}|BusinessObjects\\BusinessObjects.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68C611B4-6BA9-4A78-926F-9B689647D706}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\updatedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\updatedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\dataaccesslayer\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\updatedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\updatedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\dataaccesslayer\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40E18B7-1F24-4952-BC50-E9F17EE45306}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateDialog.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateDialog.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\PieChart.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\PieChart.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateRoom.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateRoom.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddRoom.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddRoom.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddDialog.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddDialog.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\roomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\roomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\RoomWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\RoomWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\CustomerWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\CustomerWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\updateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\updateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\adddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\adddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\dialog\\addroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\dialog\\addroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\nguyenquangtrungwpf\\view\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37E603C-6F72-421D-8BAD-255E4EA77C78}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\view\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\model\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\model\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\model\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\model\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\services\\bookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\services\\bookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\ibookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\ibookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\model\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\model\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\nguyenquangtrung_se1806_a01\\fuhotelmanagelibrary\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA59478-71F6-41AC-A0BB-0FE8F1C195D9}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +226,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,57 +234,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddRoomWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\AddRoomWindow.xaml.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\AddRoomWindow.xaml.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\AddRoomWindow.xaml.cs",
-              "RelativeToolTip": "NguyenQuangTrungWPF\\AddRoomWindow.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAywCEAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "ReportWindow.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\ReportWindow.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\ReportWindow.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\ReportWindow.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\ReportWindow.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:10:08.708Z",
+              "WhenOpened": "2024-06-11T19:02:58.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddRoomWindow.xaml",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\AddRoomWindow.xaml",
-              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\AddRoomWindow.xaml",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\AddRoomWindow.xaml",
-              "RelativeToolTip": "NguyenQuangTrungWPF\\AddRoomWindow.xaml",
+              "DocumentIndex": 8,
+              "Title": "AddDialog.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-10T23:06:28.587Z",
+              "WhenOpened": "2024-06-11T18:55:56.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "NguyenQuangTrungWPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAowFcAAAAJAAAA",
+              "DocumentIndex": 11,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\ReportWindow.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\ReportWindow.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:32:06.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\ReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\ReportWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\ReportWindow.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\ReportWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:04:41.22Z",
+              "WhenOpened": "2024-06-11T18:32:08.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\MainWindow.xaml",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\MainWindow.xaml",
-              "RelativeToolTip": "NguyenQuangTrungWPF\\MainWindow.xaml",
+              "DocumentIndex": 9,
+              "Title": "RoomWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\RoomWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\RoomWindow.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\RoomWindow.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\RoomWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-10T23:01:25.75Z",
+              "WhenOpened": "2024-06-11T18:58:34.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Model\\Customer.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\Customer.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Model\\Customer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:45:08.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\LoginWindow.xaml",
@@ -136,118 +321,607 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\LoginWindow.xaml.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\LoginWindow.xaml.cs",
               "RelativeToolTip": "NguyenQuangTrungWPF\\LoginWindow.xaml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA6wC4AAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T23:00:14.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerViewModel.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\Reposotories\\CustomerViewModel.cs",
-              "RelativeDocumentMoniker": "Reposotories\\CustomerViewModel.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\Reposotories\\CustomerViewModel.cs",
-              "RelativeToolTip": "Reposotories\\CustomerViewModel.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAUwEkAAAANAAAA",
+              "DocumentIndex": 4,
+              "Title": "Admin.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Admin.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Admin.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Admin.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Admin.g.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:34:23.793Z",
+              "WhenOpened": "2024-06-11T18:59:36.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerRepository.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\CustomerRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\CustomerRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Admin.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Admin.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Admin.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:54:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryWindow.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\HistoryWindow.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\HistoryWindow.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\HistoryWindow.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\HistoryWindow.g.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:37:31.624Z",
+              "WhenOpened": "2024-06-11T19:02:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\HistoryWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\HistoryWindow.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\HistoryWindow.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\HistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:58:02.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ICustomerRepository.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\ICustomerRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:36:58.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\BusinessObjects\\Customer.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\BusinessObjects\\Customer.cs",
-              "RelativeToolTip": "BusinessObjects\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:34:58.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RoomViewModel.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\Reposotories\\RoomViewModel.cs",
-              "RelativeDocumentMoniker": "Reposotories\\RoomViewModel.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\Reposotories\\RoomViewModel.cs",
-              "RelativeToolTip": "Reposotories\\RoomViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:22:56.476Z",
+              "Title": "UpdateRoom.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:57:05.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IRoomRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\IRoomRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\IRoomRepository.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\IRoomRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\IRoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:35:57.336Z",
+              "Title": "AddRoom.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:26:21.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
+              "Title": "PieChart.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:56:25.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PieChart.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\PieChart.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:22:53.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateDialog.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:56:47.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateDialog.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateDialog.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:26:31.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateDialog.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateDialog.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateDialog.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateDialog.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateDialog.g.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:05:11.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PieChart.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\PieChart.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\PieChart.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\PieChart.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\PieChart.g.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:00:00.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateRoom.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateRoom.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateRoom.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateRoom.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\UpdateRoom.g.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:05:16.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\CustomerWindow.xaml",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\CustomerWindow.xaml",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:57:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddRoom.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddRoom.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddRoom.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddRoom.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddRoom.g.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:59:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddDialog.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddDialog.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddDialog.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddDialog.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\Dialog\\AddDialog.g.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:59:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomWindow.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\RoomWindow.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\RoomWindow.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\RoomWindow.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\RoomWindow.g.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:03:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerWindow.g.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\CustomerWindow.g.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\CustomerWindow.g.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\CustomerWindow.g.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\obj\\Debug\\net8.0-windows\\View\\CustomerWindow.g.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:59:42.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\RoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\RoomWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\RoomWindow.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\RoomWindow.xaml.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAgwLsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:34:55.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Admin.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Admin.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Admin.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:54:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwGQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:28:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateRoom.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\UpdateRoom.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:27:15.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddRoom.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\AddRoom.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:26:09.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddDialog.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\Dialog\\AddDialog.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:26:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HistoryWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\HistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\View\\HistoryWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\NguyenQuangTrungWPF\\View\\HistoryWindow.xaml.cs",
+              "RelativeToolTip": "NguyenQuangTrungWPF\\View\\HistoryWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:39:47.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoomTypeService.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\RoomTypeService.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Services\\RoomTypeService.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\RoomTypeService.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Services\\RoomTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:02:30.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Services\\RoomService.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\RoomService.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Services\\RoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:02:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BookingDetailService.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\BookingDetailService.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Services\\BookingDetailService.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\BookingDetailService.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Services\\BookingDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:01:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookingReservationService.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\BookingReservationService.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Services\\BookingReservationService.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\BookingReservationService.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Services\\BookingReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:02:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\CustomerService.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:00:59.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Services\\LoginService.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Services\\LoginService.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Services\\LoginService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA2wAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:00:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Model\\BookingReservation.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\BookingReservation.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Model\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:44:29.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Model\\BookingDetail.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\BookingDetail.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Model\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:43:58.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "RoomRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\RoomRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\RoomRepository.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\DataAccessLayer\\RoomRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\RoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\RoomRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:23:31.026Z",
+              "WhenOpened": "2024-06-11T18:04:32.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Room.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\BusinessObjects\\Room.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Room.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\BusinessObjects\\Room.cs",
-              "RelativeToolTip": "BusinessObjects\\Room.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "DocumentIndex": 42,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\RoomTypeRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\RoomTypeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:21:32.583Z"
+              "WhenOpened": "2024-06-11T18:03:34.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:57:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IBookingDetail.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IBookingDetail.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\IBookingDetail.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IBookingDetail.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\IBookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:58:14.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:58:09.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IBookingReservationRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IBookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\IBookingReservationRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IBookingReservationRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\IBookingReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:57:49.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\IRoomTypeRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\IRoomTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:57:27.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\IRoomRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\IRoomRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:58:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BookingReservationRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\BookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\BookingReservationRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\BookingReservationRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\BookingReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:57:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Repositories\\BookingDetailRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Repositories\\BookingDetailRepository.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Repositories\\BookingDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:57:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\RoomType.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Model\\RoomType.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\RoomType.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Model\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:45:43.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\Model\\RoomInformation.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\Model\\RoomInformation.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\Model\\RoomInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:45:26.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\dal\\DBContext.cs",
+              "RelativeDocumentMoniker": "FUHotelManageLibrary\\dal\\DBContext.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_A01\\FUHotelManageLibrary\\dal\\DBContext.cs",
+              "RelativeToolTip": "FUHotelManageLibrary\\dal\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:26:12.121Z",
+              "EditorCaption": ""
             }
           ]
         }

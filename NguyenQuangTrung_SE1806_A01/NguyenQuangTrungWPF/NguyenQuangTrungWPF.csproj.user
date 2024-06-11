@@ -7,24 +7,45 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="AddRoomWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="LoginWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="MainWindow.xaml.cs">
+    <Compile Update="View\Admin.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="AddRoomWindow.xaml">
+    <Page Update="View\CustomerWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="LoginWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="View\Dialog\AddDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\AddRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\PieChart.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\UpdateDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\UpdateRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\HistoryWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\RoomWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
