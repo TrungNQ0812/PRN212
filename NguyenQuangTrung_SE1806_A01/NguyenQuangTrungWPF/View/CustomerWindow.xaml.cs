@@ -26,9 +26,10 @@ namespace NguyenQuangTrungWPF.View
         private readonly CustomerService _customerService;
         public Customer currentCus;
 
-        public CustomerWindow(Customer customer)
+        public CustomerWindow()
         {
             InitializeComponent();
+            Customer customer = new Customer();
             var customerContext = new DBContext();
             var customerRepo = new CustomerRepository(customerContext);
             _customerService = new CustomerService(customerRepo);
@@ -77,7 +78,7 @@ namespace NguyenQuangTrungWPF.View
 
         private void ProfileWindow_Click(object sender, RoutedEventArgs e)
         {
-            CustomerWindow window = new(currentCus);
+            CustomerWindow window = new CustomerWindow();
             window.Show();
             this.Close();
         }

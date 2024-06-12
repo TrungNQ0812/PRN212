@@ -13,6 +13,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using NguyenQuangTrungWPF.View;
 using NguyenQuangTrungWPF.View.Dialog;
+using NguyenQuangTrungWPF;
+using FUHotelManageLibrary.Model;
+using FUHotelManageLibrary.Services;
 
 
 namespace NguyenQuangTrungWPF
@@ -22,6 +25,7 @@ namespace NguyenQuangTrungWPF
     /// </summary>
     public partial class LoginWindow : Window
     {
+        private readonly LoginService _loginService;
         public LoginWindow()
         {
             InitializeComponent();
@@ -38,6 +42,12 @@ namespace NguyenQuangTrungWPF
                 // Mở cửa sổ chính cho Admin
                 Admin AdminWindow = new Admin();
                 AdminWindow.Show();
+                this.Close();
+            }else if (email == "WilliamShakespeare@FUMiniHotel.org" && password == "123@")
+            {
+               /* Customer cus = _loginService.GetCustomerByEmailAndPassword(email,password);*/
+                CustomerWindow customerWindow = new CustomerWindow();
+                customerWindow.Show();
                 this.Close();
             }
             else
