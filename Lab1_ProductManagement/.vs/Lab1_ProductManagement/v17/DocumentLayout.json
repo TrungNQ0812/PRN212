@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\productmanagementwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\productmanagementwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\productmanagementwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\productmanagementwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,19 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T01:34:10.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\CategoryService.cs",
@@ -98,11 +86,12 @@
               "RelativeToolTip": "Services\\CategoryService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T01:33:27.639Z"
+              "WhenOpened": "2024-06-12T01:33:27.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "ProductManagementWPF\\LoginWindow.xaml",
@@ -132,14 +121,39 @@
               "RelativeDocumentMoniker": "ProductManagementWPF\\MainWindow.xaml.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProductManagementWPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAALwAAAAmAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA2wBgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T16:22:53.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:15:08.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:34:10.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductManagementWPF\\LoginWindow.xaml.cs",
@@ -147,7 +161,8 @@
               "RelativeToolTip": "ProductManagementWPF\\LoginWindow.xaml.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAzwCAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:50:43.167Z"
+              "WhenOpened": "2024-06-09T09:50:43.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -172,18 +187,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T16:46:50.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:15:08.022Z"
             },
             {
               "$type": "Document",
