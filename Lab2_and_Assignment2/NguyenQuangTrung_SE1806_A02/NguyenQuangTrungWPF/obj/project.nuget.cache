@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q2k9D3psJtywOapcN+1kOZJKySePKU2KcfCNezxjHqMC0avR3MX8LW0viEk6/INKDbf5yha9sgtlAJzPbgnXxw==",
+  "dgSpecHash": "VAx0EAhVYljd1CmM81WfL3QNUs3hDip6+MiFsa4dIXHFAOTW1A9xPfSBUTAJrL2iv5rHfyYXgJLaUu1SxLKO0g==",
   "success": true,
   "projectFilePath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_A02\\NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,9 @@
     "C:\\Users\\trung\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\microsoft.web.webview2.1.0.864.35.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

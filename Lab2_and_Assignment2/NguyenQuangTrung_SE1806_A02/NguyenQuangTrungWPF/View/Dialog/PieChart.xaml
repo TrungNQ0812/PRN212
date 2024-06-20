@@ -1,0 +1,14 @@
+﻿<Window x:Class="NguyenQuangTrungWPF.View.Dialog.PieChart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NguyenQuangTrungWPF.View.Dialog"
+        mc:Ignorable="d"
+        xmlns:oxy="clr-namespace:OxyPlot.Wpf;assembly=OxyPlot.Wpf"
+        Left="1300" Top="150"
+        Title="PieChart" Height="600" Width="600">
+    <Grid>
+        <oxy:PlotView Name="plot" Grid.Column="1" Margin="0" Width="auto" Height="400"/>
+    </Grid>
+</Window>

@@ -7,47 +7,47 @@
       "RelativeMoniker": "D:0:0:{FE0AAA9B-0BF3-437D-83C8-3AB8CF5D8FE8}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E7688E-EF50-4199-9707-23FB3CE8ECD1}|Repositories\\Repositories.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39E7688E-EF50-4199-9707-23FB3CE8ECD1}|Repositories\\Repositories.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E7688E-EF50-4199-9707-23FB3CE8ECD1}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856AA242-4A1B-4A2D-A73A-BDE53CD9C7CC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{144AE814-E4D4-4A4A-AA56-4EBB4D5191C0}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5504F7A-04E6-4D2E-9491-C460C75F65C7}|BusinessObjects\\BusinessObjects.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\businessobjects\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5504F7A-04E6-4D2E-9491-C460C75F65C7}|BusinessObjects\\BusinessObjects.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\businessobjects\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5504F7A-04E6-4D2E-9491-C460C75F65C7}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AAA9B-0BF3-437D-83C8-3AB8CF5D8FE8}|WPFApp\\WPFApp.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FE0AAA9B-0BF3-437D-83C8-3AB8CF5D8FE8}|WPFApp\\WPFApp.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FE0AAA9B-0BF3-437D-83C8-3AB8CF5D8FE8}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AAA9B-0BF3-437D-83C8-3AB8CF5D8FE8}|WPFApp\\WPFApp.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_lab2\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FE0AAA9B-0BF3-437D-83C8-3AB8CF5D8FE8}|WPFApp\\WPFApp.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FE0AAA9B-0BF3-437D-83C8-3AB8CF5D8FE8}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\WPFApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFMAAAAXAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwFMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:48:56.378Z",
               "IsPinned": true,
@@ -88,8 +88,7 @@
               "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:13:55.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:13:55.326Z"
             },
             {
               "$type": "Document",
@@ -101,8 +100,7 @@
               "RelativeToolTip": "DataAccessLayer\\MyStoreContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T18:40:24.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T18:40:24.116Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:13:57.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:13:57.452Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "Repositories\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:11:43.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:11:43.348Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "Services\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:08:12.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:08:12.937Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "Services\\ProductService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAA0wBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:07:56.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:07:56.802Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "Services\\CategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:05:48.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:05:48.617Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "Services\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T18:49:53.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T18:49:53.638Z"
             },
             {
               "$type": "Document",
@@ -192,8 +184,7 @@
               "RelativeToolTip": "BusinessObjects\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T19:01:11.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T19:01:11.617Z"
             },
             {
               "$type": "Document",
@@ -205,8 +196,7 @@
               "RelativeToolTip": "WPFApp\\appSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T17:48:34.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:48:34.933Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\WPFApp\\MainWindow.xaml",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-20T17:52:34.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:52:34.957Z"
             }
           ]
         }

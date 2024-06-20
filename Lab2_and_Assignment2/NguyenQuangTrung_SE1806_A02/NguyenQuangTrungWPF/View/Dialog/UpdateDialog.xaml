@@ -1,0 +1,29 @@
+﻿<Window x:Class="NguyenQuangTrungWPF.View.Dialog.UpdateDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NguyenQuangTrungWPF.View.Dialog"
+        mc:Ignorable="d"
+        Title="UpdateDialog" Height="400" Width="500">
+    <Grid>
+        <StackPanel Width="300">
+            <Label Content="FullName" />
+            <TextBox Name="FullNameTextBox" />
+            <Label Content="Telephone" />
+            <TextBox Name="TelephoneTextBox" />
+            <Label Content="Email Address" />
+            <TextBox Name="EmailTextBox" />
+            <Label Content="Birthday" />
+            <DatePicker Name="BirthdayDatePicker" />
+            <Label Content="Password" />
+            <TextBox Name="PasswordBox" />
+            <Label Content="Status" />
+            <ComboBox Name="StatusComboBox">
+                <ComboBoxItem Content="Active" />
+                <ComboBoxItem Content="Deleted" />
+            </ComboBox>
+            <Button Content="Update Customer" Name="UpdateCustomerButton" Click="UpdateCustomerButton_Click" Margin="5,10,5,10" Width="200"/>
+        </StackPanel>
+    </Grid>
+</Window>

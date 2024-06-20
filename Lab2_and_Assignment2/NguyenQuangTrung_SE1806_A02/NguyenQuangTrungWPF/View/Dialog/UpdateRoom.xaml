@@ -1,0 +1,35 @@
+﻿<Window x:Class="NguyenQuangTrungWPF.View.Dialog.UpdateRoom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NguyenQuangTrungWPF.View.Dialog"
+        mc:Ignorable="d"
+        Title="UpdateRoom" Height="400" Width="500">
+    <Grid>
+        <StackPanel Width="300">
+            <!--  Room Data Grid  -->
+            <Label Content="Room Number" />
+            <TextBox Name="RoomNumberTextBox" />
+
+            <Label Content="Room Description" />
+            <TextBox Name="RoomDescriptionTextBox" />
+
+            <Label Content="Room Max Capacity" />
+            <TextBox Name="RoomMaxCapacityTextBox" />
+
+            <Label Content="Room Price Per Date" />
+            <TextBox Name="RoomPricePerDate" />
+
+            <Label Content="Room Status" />
+            <ComboBox Name="RoomStatus">
+                <ComboBoxItem Content="Active" />
+                <ComboBoxItem Content="Deleted" />
+            </ComboBox>
+
+            <Label Content="Room Type ID" />
+            <TextBox Name="RoomTypeIDTextBox" />
+            <Button Content="Update Room" Name="UpdateRoomButton" Click="UpdateRoomButton_Click" Margin="5,10,5,10" Width="200"/>
+        </StackPanel>
+    </Grid>
+</Window>

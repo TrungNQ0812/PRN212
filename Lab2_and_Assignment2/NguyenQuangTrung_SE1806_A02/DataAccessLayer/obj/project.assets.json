@@ -1624,21 +1624,6 @@
             "rid": "win"
           }
         }
-      },
-      "BusinessObjects/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.6",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
-          "Microsoft.Extensions.Configuration.Json": "8.0.0"
-        },
-        "compile": {
-          "bin/placeholder/BusinessObjects.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BusinessObjects.dll": {}
-        }
       }
     }
   },
@@ -4413,16 +4398,10 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "BusinessObjects/1.0.0": {
-      "type": "project",
-      "path": "../BusinessObjects/BusinessObjects.csproj",
-      "msbuildProject": "../BusinessObjects/BusinessObjects.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BusinessObjects >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
@@ -4455,11 +4434,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_A02\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_A02\\BusinessObjects\\BusinessObjects.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
