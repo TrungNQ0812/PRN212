@@ -1,6 +1,0 @@
-D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_Lab2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
-D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_Lab2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
-D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_Lab2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
-D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_Lab2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
-D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_Lab2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
-D:\FPT\5_SU24\PRN212\Git\PRN212\NguyenQuangTrung_SE1806_Lab2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
