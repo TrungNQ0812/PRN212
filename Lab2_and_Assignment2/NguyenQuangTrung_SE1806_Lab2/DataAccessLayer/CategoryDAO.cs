@@ -18,7 +18,7 @@ namespace DataAccessLayer
                 listCategories = context.Categories.ToList();
             }catch (Exception ex)
             {
-
+                throw new Exception(ex.Message);
             }
             return listCategories;
         }

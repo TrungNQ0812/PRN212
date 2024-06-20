@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\productmanagementwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\productmanagementwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\productmanagementwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -11,15 +15,11 @@
       "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\productmanagementwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB271496-BB7B-4ECA-8817-D0B847F83E00}|ProductManagementWPF\\ProductManagementWPF.csproj|solutionrelative:productmanagementwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A71CF17A-5DF7-49C0-9F5A-8F24E8DDAEB7}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{32E5E253-6622-4A72-84EB-A6143A181B44}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab1_productmanagement\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5116CA0-5C2C-4968-9F82-847A96AA4216}|BusinessObject\\BusinessObjects.csproj|solutionrelative:businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,8 +86,7 @@
               "RelativeToolTip": "Repositories\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T01:34:10.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T01:34:10.433Z"
             },
             {
               "$type": "Document",
@@ -99,12 +98,11 @@
               "RelativeToolTip": "Services\\CategoryService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T01:33:27.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T01:33:27.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "ProductManagementWPF\\LoginWindow.xaml",
@@ -124,25 +122,24 @@
               "RelativeToolTip": "BusinessObject\\Product.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T01:20:29.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T01:20:29.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductManagementWPF\\MainWindow.xaml.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProductManagementWPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAALEAAAAAAAAAAAAswLwAAAAmAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAALwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T16:22:53.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductManagementWPF\\LoginWindow.xaml.cs",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "ProductManagementWPF\\LoginWindow.xaml.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAzwCAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:50:43.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T09:50:43.167Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:37:25.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T16:37:25.667Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "Repositories\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:46:50.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T16:46:50.853Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "Services\\ProductService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:15:08.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T20:15:08.022Z"
             },
             {
               "$type": "Document",
@@ -201,8 +194,7 @@
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab1_ProductManagement\\ProductManagementWPF\\MainWindow.xaml",
               "RelativeToolTip": "ProductManagementWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-09T16:21:29.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T16:21:29.35Z"
             },
             {
               "$type": "Document",
@@ -214,8 +206,7 @@
               "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T17:00:01.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T17:00:01.551Z"
             },
             {
               "$type": "Document",
@@ -227,8 +218,7 @@
               "RelativeToolTip": "BusinessObject\\AccountMember.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:39:04.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T16:39:04.594Z"
             },
             {
               "$type": "Document",
@@ -240,8 +230,7 @@
               "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:00:52.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T16:00:52.257Z"
             },
             {
               "$type": "Document",

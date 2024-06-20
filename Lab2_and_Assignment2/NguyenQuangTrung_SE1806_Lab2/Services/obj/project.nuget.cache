@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FKrk0UnfNaR5p7ZQuJc6oh3Vk7B0uqRIKKnixxNIOuqb+1inIxshGb0LVy2RH9ONOq9v7JfqOZUJhY1NZV21g==",
+  "dgSpecHash": "zQkIr2HOs16q5nhNNIw85GvQi49a/rwhT/iHpIU/72zSYIk2YZtauuLh0/tUuK6WHYq5ORBwN+0rQEQGWijY2w==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_Lab2\\Services\\Services.csproj",
+  "projectFilePath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trung\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

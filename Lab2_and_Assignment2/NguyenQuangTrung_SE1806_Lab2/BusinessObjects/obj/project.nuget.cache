@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bE89z5waSnLvqo6eEzk3OomX9Y4tu+YFgav92PIcg995C2ne0PbDOMxbDB73SHjGpsDbNNQui2M2/Zo7ymF5PA==",
+  "dgSpecHash": "CyJ7rSonIQAklFoL/O77ltbHZ3+nO/fnYO4Be7LWHzuCuQIhnbBoHlikgSBsP6D3B95SdSXIXlQLJSzhhNNdCw==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\NguyenQuangTrung_SE1806_Lab2\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_Lab2\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trung\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

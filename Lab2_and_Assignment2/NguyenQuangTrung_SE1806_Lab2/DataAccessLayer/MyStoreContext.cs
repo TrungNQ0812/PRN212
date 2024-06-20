@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using System.IO;
+using BusinessObjects.Models;
 
-namespace BusinessObjects.Models;
+namespace DataAccessLayer;
 
 public partial class MyStoreContext : DbContext
 {
