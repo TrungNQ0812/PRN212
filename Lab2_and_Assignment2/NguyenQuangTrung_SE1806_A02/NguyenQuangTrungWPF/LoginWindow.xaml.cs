@@ -42,16 +42,18 @@ namespace NguyenQuangTrungWPF
                 Admin AdminWindow = new Admin();
                 AdminWindow.Show();
                 this.Close();
-            }else if (email == "WilliamShakespeare@FUMiniHotel.org" && password == "123@")
-            {
-               /* Customer cus = _loginService.GetCustomerByEmailAndPassword(email,password);*/
-                CustomerWindow customerWindow = new CustomerWindow();
-                customerWindow.Show();
-                this.Close();
             }
             else
             {
                 MessageBox.Show("Sai email hoặc mật khẩu", "Lỗi đăng nhập", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            
+            if (email == "WilliamShakespeare@FUMiniHotel.org" && password == "123@")
+            {
+                /* Customer cus = _loginService.GetCustomerByEmailAndPassword(email,password);*/
+                CustomerWindow customerWindow = new CustomerWindow();
+                customerWindow.Show();
+                this.Close();
             }
         }
 
