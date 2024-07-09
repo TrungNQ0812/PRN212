@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_A02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D85519F1-1B1F-4401-9D60-719A4291F627}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_A02\\nguyenquangtrungwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D85519F1-1B1F-4401-9D60-719A4291F627}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_a02\\nguyenquangtrungwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D85519F1-1B1F-4401-9D60-719A4291F627}|NguyenQuangTrungWPF\\NguyenQuangTrungWPF.csproj|solutionrelative:nguyenquangtrungwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9407D21-B7BA-4023-AB48-23F0BBBD8581}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\lab2_and_assignment2\\nguyenquangtrung_se1806_a02\\fuhotelmanagelibrary\\services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9407D21-B7BA-4023-AB48-23F0BBBD8581}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_A02\\fuhotelmanagelibrary\\services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9407D21-B7BA-4023-AB48-23F0BBBD8581}|FUHotelManageLibrary\\FUHotelManageLibrary.csproj|solutionrelative:fuhotelmanagelibrary\\services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,11 +50,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -66,8 +74,7 @@
               "RelativeToolTip": "FUHotelManageLibrary\\Services\\BookingReservationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T21:28:05.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T21:28:05.55Z"
             },
             {
               "$type": "Document",
@@ -89,7 +96,7 @@
               "RelativeDocumentMoniker": "NguyenQuangTrungWPF\\LoginWindow.xaml.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Lab2_and_Assignment2\\NguyenQuangTrung_SE1806_A02\\NguyenQuangTrungWPF\\LoginWindow.xaml.cs",
               "RelativeToolTip": "NguyenQuangTrungWPF\\LoginWindow.xaml.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAmwCcAAABRAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAA4wCsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T20:58:01.228Z",
               "EditorCaption": ""
