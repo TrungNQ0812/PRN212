@@ -1,0 +1,14 @@
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\bin\Debug\net8.0\Bai3.exe
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\bin\Debug\net8.0\Bai3.deps.json
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\bin\Debug\net8.0\Bai3.runtimeconfig.json
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\bin\Debug\net8.0\Bai3.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\bin\Debug\net8.0\Bai3.pdb
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfo.cs
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\Bai3.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\Bai3.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\refint\Bai3.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\Bai3.pdb
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\Bai3.genruntimeconfig.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\Bai3\obj\Debug\net8.0\ref\Bai3.dll

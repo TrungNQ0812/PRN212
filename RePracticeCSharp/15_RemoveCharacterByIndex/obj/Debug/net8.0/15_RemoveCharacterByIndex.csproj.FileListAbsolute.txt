@@ -1,0 +1,14 @@
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\bin\Debug\net8.0\15_RemoveCharacterByIndex.exe
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\bin\Debug\net8.0\15_RemoveCharacterByIndex.deps.json
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\bin\Debug\net8.0\15_RemoveCharacterByIndex.runtimeconfig.json
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\bin\Debug\net8.0\15_RemoveCharacterByIndex.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\bin\Debug\net8.0\15_RemoveCharacterByIndex.pdb
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\15_RemoveCharacterByIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\15_RemoveCharacterByIndex.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\15_RemoveCharacterByIndex.AssemblyInfo.cs
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\15_RemoveCharacterByIndex.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\15_RemoveCharacterByIndex.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\refint\15_RemoveCharacterByIndex.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\15_RemoveCharacterByIndex.pdb
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\15_RemoveCharacterByIndex.genruntimeconfig.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\15_RemoveCharacterByIndex\obj\Debug\net8.0\ref\15_RemoveCharacterByIndex.dll

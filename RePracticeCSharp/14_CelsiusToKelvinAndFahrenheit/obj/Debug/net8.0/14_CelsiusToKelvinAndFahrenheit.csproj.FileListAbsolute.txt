@@ -1,0 +1,14 @@
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.exe
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.deps.json
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.runtimeconfig.json
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.pdb
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.AssemblyInfo.cs
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\refint\14_CelsiusToKelvinAndFahrenheit.dll
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.pdb
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\14_CelsiusToKelvinAndFahrenheit.genruntimeconfig.cache
+D:\Code\C_Sharp\Practice\RePracticeCSharp\14_CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\ref\14_CelsiusToKelvinAndFahrenheit.dll
