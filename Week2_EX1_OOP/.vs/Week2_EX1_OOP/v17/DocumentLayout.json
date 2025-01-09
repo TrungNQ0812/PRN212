@@ -14,8 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +36,7 @@
               "RelativeDocumentMoniker": "EX1_OOP\\Program.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\Week2_EX1_OOP\\EX1_OOP\\Program.cs",
               "RelativeToolTip": "EX1_OOP\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAAC0AAAARAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAiwFcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T10:18:43.808Z",
               "EditorCaption": ""
