@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OICzMy3lrrJtk5XOuy3dLsUgVhUDzdzC6v7k4TgAfORITgNsVJWORaJFa87tCX3r+cz7oJrr+Hq1vwLV53R9xA==",
+  "dgSpecHash": "YAitgkhKFjCMvruTVb0YBW1YqvPLIIVY4CRucJSjuClPfuL8wjPB1WJ5luxMlk2NJ6Gm8NTYNK7HxTqJcae26w==",
   "success": true,
-  "projectFilePath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj",
+  "projectFilePath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

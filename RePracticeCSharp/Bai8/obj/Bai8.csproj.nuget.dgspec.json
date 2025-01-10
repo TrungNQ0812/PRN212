@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai8\\Bai8.csproj": {}
+    "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai8\\Bai8.csproj": {}
   },
   "projects": {
-    "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai8\\Bai8.csproj": {
+    "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai8\\Bai8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai8\\Bai8.csproj",
+        "projectUniqueName": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai8\\Bai8.csproj",
         "projectName": "Bai8",
-        "projectPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai8\\Bai8.csproj",
+        "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai8\\Bai8.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai8\\obj\\",
+        "outputPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj": {}
+    "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj": {}
   },
   "projects": {
-    "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj": {
+    "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj",
+        "projectUniqueName": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj",
         "projectName": "14_CelsiusToKelvinAndFahrenheit",
-        "projectPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj",
+        "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\14_CelsiusToKelvinAndFahrenheit.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\obj\\",
+        "outputPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\14_CelsiusToKelvinAndFahrenheit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\bin\Debug\net8.0\16_SwapFirstAndLastCharacter.exe
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\bin\Debug\net8.0\16_SwapFirstAndLastCharacter.deps.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\bin\Debug\net8.0\16_SwapFirstAndLastCharacter.runtimeconfig.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\bin\Debug\net8.0\16_SwapFirstAndLastCharacter.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\bin\Debug\net8.0\16_SwapFirstAndLastCharacter.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.AssemblyInfoInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.AssemblyInfo.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.csproj.CoreCompileInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.sourcelink.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\refint\16_SwapFirstAndLastCharacter.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\16_SwapFirstAndLastCharacter.genruntimeconfig.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\16_SwapFirstAndLastCharacter\obj\Debug\net8.0\ref\16_SwapFirstAndLastCharacter.dll

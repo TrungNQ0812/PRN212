@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai2\\Bai2.csproj",
+      "projectUniqueName": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai2\\Bai2.csproj",
       "projectName": "Bai2",
-      "projectPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai2\\Bai2.csproj",
+      "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai2\\Bai2.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\Bai2\\obj\\",
+      "outputPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\Bai2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

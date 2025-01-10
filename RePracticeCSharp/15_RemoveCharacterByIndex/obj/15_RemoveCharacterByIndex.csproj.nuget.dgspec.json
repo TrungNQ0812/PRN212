@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj": {}
+    "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj": {}
   },
   "projects": {
-    "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj": {
+    "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj",
+        "projectUniqueName": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj",
         "projectName": "15_RemoveCharacterByIndex",
-        "projectPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj",
+        "projectPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C_Sharp\\Practice\\RePracticeCSharp\\15_RemoveCharacterByIndex\\obj\\",
+        "outputPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",
