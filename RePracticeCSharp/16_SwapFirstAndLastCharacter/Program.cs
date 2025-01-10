@@ -16,20 +16,14 @@
             first = str[0];
             last = str[str.Length - 1];
 
-            if (str.Length >= 3)
-            {
-                str.Remove(0, 1);
-                str.Remove(str.Length - 2, str.Length - 1);
-            }
-            else
+            if (str.Length < 2)
             {
                 return str;
             }
 
-            str.Append(first);
-            str = last + str;
+            str = str.Substring(1,str.Length - 2);
 
-            return str;
+            return last + str + first;
         }
     }
 }

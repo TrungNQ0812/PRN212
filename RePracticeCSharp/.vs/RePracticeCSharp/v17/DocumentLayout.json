@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2F7D6D8-2318-4779-8FDB-2A8CE7E08E52}|16_SwapFirstAndLastCharacter\\16_SwapFirstAndLastCharacter.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\repracticecsharp\\16_swapfirstandlastcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F7D6D8-2318-4779-8FDB-2A8CE7E08E52}|16_SwapFirstAndLastCharacter\\16_SwapFirstAndLastCharacter.csproj|solutionrelative:16_swapfirstandlastcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6993E49A-C3E8-4C34-BFD0-D9F2DE8BBD99}|15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj|D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_removecharacterbyindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6993E49A-C3E8-4C34-BFD0-D9F2DE8BBD99}|15_RemoveCharacterByIndex\\15_RemoveCharacterByIndex.csproj|solutionrelative:15_removecharacterbyindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}|17_AddFirstCharacterToFrontAndBack\\17_AddFirstCharacterToFrontAndBack.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\repracticecsharp\\17_addfirstcharactertofrontandback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}|17_AddFirstCharacterToFrontAndBack\\17_AddFirstCharacterToFrontAndBack.csproj|solutionrelative:17_addfirstcharactertofrontandback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\Program.cs",
-              "RelativeDocumentMoniker": "15_RemoveCharacterByIndex\\Program.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\15_RemoveCharacterByIndex\\Program.cs",
-              "RelativeToolTip": "15_RemoveCharacterByIndex\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:04:27.239Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\16_SwapFirstAndLastCharacter\\Program.cs",
-              "RelativeDocumentMoniker": "16_SwapFirstAndLastCharacter\\Program.cs",
-              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\16_SwapFirstAndLastCharacter\\Program.cs",
-              "RelativeToolTip": "16_SwapFirstAndLastCharacter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\17_AddFirstCharacterToFrontAndBack\\Program.cs",
+              "RelativeDocumentMoniker": "17_AddFirstCharacterToFrontAndBack\\Program.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\17_AddFirstCharacterToFrontAndBack\\Program.cs",
+              "RelativeToolTip": "17_AddFirstCharacterToFrontAndBack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:37:59.238Z",
+              "WhenOpened": "2025-01-10T01:26:44.887Z",
               "EditorCaption": ""
             }
           ]

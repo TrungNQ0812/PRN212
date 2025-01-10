@@ -17,17 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai7", "Bai7\Bai7.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai8", "Bai8\Bai8.csproj", "{2235C027-F905-4D8F-BD04-F7A3F6A28106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai9", "Bai9\Bai9.csproj", "{4C688D2B-7C1C-45E0-95CF-9246585932D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai9", "Bai9\Bai9.csproj", "{4C688D2B-7C1C-45E0-95CF-9246585932D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai10", "Bai10\Bai10.csproj", "{F2B79BCE-91A2-4DF6-83F6-CADADB1F398B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai10", "Bai10\Bai10.csproj", "{F2B79BCE-91A2-4DF6-83F6-CADADB1F398B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai11", "Bai11\Bai11.csproj", "{0BA53A5F-49F9-4E3A-9071-FBEA7E4F2D24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai11", "Bai11\Bai11.csproj", "{0BA53A5F-49F9-4E3A-9071-FBEA7E4F2D24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_CelsiusToKelvinAndFahrenheit", "14_CelsiusToKelvinAndFahrenheit\14_CelsiusToKelvinAndFahrenheit.csproj", "{2B37738E-D735-40B3-BED8-480B907F8F00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_CelsiusToKelvinAndFahrenheit", "14_CelsiusToKelvinAndFahrenheit\14_CelsiusToKelvinAndFahrenheit.csproj", "{2B37738E-D735-40B3-BED8-480B907F8F00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_RemoveCharacterByIndex", "15_RemoveCharacterByIndex\15_RemoveCharacterByIndex.csproj", "{6993E49A-C3E8-4C34-BFD0-D9F2DE8BBD99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_RemoveCharacterByIndex", "15_RemoveCharacterByIndex\15_RemoveCharacterByIndex.csproj", "{6993E49A-C3E8-4C34-BFD0-D9F2DE8BBD99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_SwapFirstAndLastCharacter", "16_SwapFirstAndLastCharacter\16_SwapFirstAndLastCharacter.csproj", "{B2F7D6D8-2318-4779-8FDB-2A8CE7E08E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_SwapFirstAndLastCharacter", "16_SwapFirstAndLastCharacter\16_SwapFirstAndLastCharacter.csproj", "{B2F7D6D8-2318-4779-8FDB-2A8CE7E08E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_AddFirstCharacterToFrontAndBack", "17_AddFirstCharacterToFrontAndBack\17_AddFirstCharacterToFrontAndBack.csproj", "{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{B2F7D6D8-2318-4779-8FDB-2A8CE7E08E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2F7D6D8-2318-4779-8FDB-2A8CE7E08E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2F7D6D8-2318-4779-8FDB-2A8CE7E08E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
