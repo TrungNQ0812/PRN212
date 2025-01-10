@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0F06258-D4C6-4FC8-8C91-A3080597E86C}|18_CheckNegativeAndPositivePair\\18_CheckNegativeAndPositivePair.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\repracticecsharp\\18_checknegativeandpositivepair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F06258-D4C6-4FC8-8C91-A3080597E86C}|18_CheckNegativeAndPositivePair\\18_CheckNegativeAndPositivePair.csproj|solutionrelative:18_checknegativeandpositivepair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}|17_AddFirstCharacterToFrontAndBack\\17_AddFirstCharacterToFrontAndBack.csproj|d:\\fpt\\5_su24\\prn212\\git\\prn212\\repracticecsharp\\17_addfirstcharactertofrontandback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E5F428C-8EFD-45A8-8D2B-9063E6F8A36C}|17_AddFirstCharacterToFrontAndBack\\17_AddFirstCharacterToFrontAndBack.csproj|solutionrelative:17_addfirstcharactertofrontandback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -32,11 +36,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\18_CheckNegativeAndPositivePair\\Program.cs",
+              "RelativeDocumentMoniker": "18_CheckNegativeAndPositivePair\\Program.cs",
+              "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\18_CheckNegativeAndPositivePair\\Program.cs",
+              "RelativeToolTip": "18_CheckNegativeAndPositivePair\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:16:20.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\17_AddFirstCharacterToFrontAndBack\\Program.cs",
               "RelativeDocumentMoniker": "17_AddFirstCharacterToFrontAndBack\\Program.cs",
               "ToolTip": "D:\\FPT\\5_SU24\\PRN212\\Git\\PRN212\\RePracticeCSharp\\17_AddFirstCharacterToFrontAndBack\\Program.cs",
               "RelativeToolTip": "17_AddFirstCharacterToFrontAndBack\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T01:26:44.887Z",
               "EditorCaption": ""

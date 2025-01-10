@@ -1,0 +1,15 @@
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.exe
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.deps.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.runtimeconfig.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.AssemblyInfoInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.AssemblyInfo.cs
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.csproj.CoreCompileInputs.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.sourcelink.json
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\refint\17_AddFirstCharacterToFrontAndBack.dll
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.pdb
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\17_AddFirstCharacterToFrontAndBack.genruntimeconfig.cache
+D:\FPT\5_SU24\PRN212\Git\PRN212\RePracticeCSharp\17_AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\ref\17_AddFirstCharacterToFrontAndBack.dll
